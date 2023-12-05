@@ -7,6 +7,14 @@
 	<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Spesifikasi
+<ul> 
+	<li>Laravel 8</li>
+	<li>PHP 7.4</li>
+	<li>Mysql</li>
+</ul>
+
+
 ## How To Install
 <ol> 
 	<li>After Clone repository</li>
